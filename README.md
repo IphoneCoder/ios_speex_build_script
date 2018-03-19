@@ -21,7 +21,7 @@ Beacuse the speex lib dependency the ogg. So:
 5.According to your own needs，add or delete the arch.the default is all the arch that support .i386,x86_64,armv6,armv7,armv7s,arm64.
 <br/>
 <br/>
-When all the up steps is done. <font color=red size=5>just execute the ogg.sh, in the ogg.sh  when ogg is build success ,auto build the speex </font>
+When all the up steps is done. ***just execute the ogg.sh, in the ogg.sh  when ogg is build success ,auto build the speex***
 <br/>
 <br/>
 # Result #
